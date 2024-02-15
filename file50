@@ -1,3 +1,7 @@
 x=y
+<<<<<<< HEAD
 y=z
+=======
+x=y
+ refs/remotes/origin/main
 y=x
